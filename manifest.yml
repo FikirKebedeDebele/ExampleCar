@@ -1,0 +1,5 @@
+---
+applications:
+  - name: Example
+    buildpack: java_buildpack
+  
